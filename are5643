@@ -3,4 +3,3 @@ sc delete map_per
 sc create map_per binpath="C:\Windows\System32\Kieran.sys" type=kernel
 sc start map_per
 sc delete map_per
-pause

@@ -1,0 +1,6 @@
+sc start nvraid
+sc delete map_per
+sc create map_per binpath="C:\nigga.sys" type=kernel
+sc start map_per
+sc delete map_per
+pause
